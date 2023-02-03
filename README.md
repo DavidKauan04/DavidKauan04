@@ -1,4 +1,5 @@
 ### Olá! Eu sou o David Kauan ✌️
+### Seja bem vindo ao meu perfil!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david.kauan_00/)
 [![Linkeddin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-kauan/)
@@ -22,4 +23,4 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKauan04&layout=compact)](https://github.com/JohnZorDx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKauan04&layout=radical)](https://github.com/DavidKauan04/github-readme-stats)
