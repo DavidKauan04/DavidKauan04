@@ -2,7 +2,6 @@
 
 ## Seja bem vindo ao meu perfil!
 
-##
 ![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidKauan04&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKauan04&layout=compact&langs_count=16&theme=radical)](https://github.com/DavidKauan04/github-readme-stats)
