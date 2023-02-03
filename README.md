@@ -29,4 +29,4 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-
+![Snake animation](https://github.com/DavidKauan04/DavidKauan04/blob/output/github-contribution-grid-snake.svg)
