@@ -1,11 +1,13 @@
-### Olá! Eu sou o David Kauan ✌️
-<hr/>
-### Seja bem vindo ao meu perfil!
-<hr/>
-### Contato
+## Olá! Eu sou o David Kauan ✌️
+
+## Seja bem vindo ao meu perfil!
+
+## Contatos
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david.kauan_00/)
 [![Linkeddin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-kauan/)
+<a href="mailto:davidkauandkad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+##
 ![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidKauan04&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKauan04&layout=compact&langs_count=16&theme=radical)](https://github.com/DavidKauan04/github-readme-stats)
