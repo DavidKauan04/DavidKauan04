@@ -2,11 +2,6 @@
 
 ## Seja bem vindo ao meu perfil!
 
-## Contatos
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david.kauan_00/)
-[![Linkeddin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-kauan/)
-<a href="mailto:davidkauandkad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
 ##
 ![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidKauan04&show_icons=true&theme=radical)
 
@@ -28,5 +23,11 @@
 </div><br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+## Contatos
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david.kauan_00/)
+[![Linkeddin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-kauan/)
+<a href="mailto:davidkauandkad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<hr/>
 
 ![Snake animation](https://github.com/DavidKauan04/DavidKauan04/blob/output/github-contribution-grid-snake.svg)
