@@ -2,9 +2,9 @@
 
 ## Seja bem vindo ao meu perfil!
 
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidKauan04&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidKauan04&theme=radical&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKauan04&layout=compact&langs_count=16&theme=radical)](https://github.com/DavidKauan04/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKauan04&layout=compact&theme=radical)](https://github.com/DavidKauan04/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 <hr/>
