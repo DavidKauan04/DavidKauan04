@@ -30,4 +30,4 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 <a href="mailto:davidkauandkad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <hr/>
 
-![Snake animation](https://github.com/DavidKauan04/DavidKauan04/blob/output/github-contribution-grid-snake.svg)
+
