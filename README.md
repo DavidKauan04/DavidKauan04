@@ -1,11 +1,11 @@
-## Olá! Eu sou o David Kauan ✌️
+## Olá! Eu sou o David Kauan
 
-## Seja bem vindo ao meu perfil!
+## Sejam bem-vindos ao meu perfil!
 
-##Languages
+## Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=ts,bootstrap,figma,docker,php,html,css,js,materialui,nextjs,nodejs,postgres,py,react" />
   </a>
 </p>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidKauan04&theme=radical&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
