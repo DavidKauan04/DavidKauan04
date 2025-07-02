@@ -9,7 +9,7 @@
   </a>
 </p>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidKauan04&theme=radical&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
+## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKauan04&layout=compact&hide=shell&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKauan04&layout=compact&hide=html,css,python,javascript,typescript&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
