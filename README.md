@@ -2,7 +2,7 @@
 
 ## Sejam bem-vindos ao meu perfil!
 
-## Languages
+## Linguagens
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,bootstrap,figma,docker,php,html,css,js,materialui,nextjs,nodejs,postgres,py,react" />
